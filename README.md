@@ -2,7 +2,7 @@
 install python 3
 pip install tweepy
 
-# credetials
+# Credetials
 SignUp account on twitter developer portal.
 create app on the developer portal.
 Generate:
@@ -12,4 +12,4 @@ Generate:
 4. Access_secrets
  
  # Json File 
- Put on client key, secrets, and Access token , secrets in json file
+ Put on client key, secrets, and Access token , secrets in json file.
