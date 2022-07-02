@@ -14,3 +14,10 @@ Generate:
  
  # Json File 
  Put on client key, secrets, and Access token , secrets in json file.
+ 
+ # RUN
+ For Image:
+ python twitImage.py -file="C:/Users/Rahul/twitter/upload Image/" -title="rrrrr" -json="twitImageJson.json"
+	
+	For Video:
+	python tw1.py -file_path="C:/Users/Rahul/twitter/upload video/" -title="kkk" -json="twt1.json"
