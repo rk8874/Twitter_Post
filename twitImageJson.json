@@ -1,10 +1,10 @@
 {
   "Twitter": {
-    "CONSUMER_KEY" : "vLGa3dWumrBWVNJwVRNHTAzii",
-    "CONSUMER_SECRET" : "uqAIjpMKWnNeM8eDJ9XbGTe4qDHwkSmqwZSFpRZaP1Mc8sSwGC",
-    "Access_token" : "1527235506005716992-tCsrDlY9fW3KlxkVGf8x1uKqpqivFN",
-    "Access_token_secret" : "903Kk7RFZdA2TXwVK4Z0k2dh5KmFTFhgkEWvS2cMcJVtg",
-    "File_Name" :"k.jpg"
+    "CONSUMER_KEY" : "***",
+    "CONSUMER_SECRET" : "*****",
+    "Access_token" : "*****",
+    "Access_token_secret" : "******",
+    "File_Name" :"*.jpg"
     
   }
 }
