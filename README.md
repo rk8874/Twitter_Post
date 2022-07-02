@@ -16,6 +16,7 @@ Generate:
  Put on client key, secrets, and Access token , secrets in json file.
  
  # RUN
+ 
  For Image:
  python twitImage.py -file="C:/Users/Rahul/twitter/upload Image/" -title="rrrrr" -json="twitImageJson.json"
 	
